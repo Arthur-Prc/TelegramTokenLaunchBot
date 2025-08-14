@@ -40,3 +40,4 @@ Create a `.env` file with:
 ```
 TELEGRAM_TOKEN=your_bot_token_here
 ```
+<img width="592" height="888" alt="image" src="https://github.com/user-attachments/assets/de65a034-9acd-49ca-959c-ac734d5cf0b0" />
